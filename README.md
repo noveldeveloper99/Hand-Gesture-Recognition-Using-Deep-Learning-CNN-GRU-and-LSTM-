@@ -1,7 +1,7 @@
 # Data-Mining-and-Machine-Learning-2
 Semester Project repository
 
-# Hand Gesture Recognition Using Deep Learning 
+# Hand Gesture Recognition Using Deep Learning (CNN, GRU, and LSTM)
 
 Hand gestures - a form of non-verbal communication, are now being utilized in developing various Human-Computer Interaction tools such as systems for communicating with deaf-mute people, robot controls, home automation devices and, medical devices. Hand Gesture Recognition systems find their immense application in a wide range of domains which include or may incorporate automated gesture-based utility of machines that are currently being operated manually. Different approaches and combinations of techniques can be used for classifying hand gestures using deep learning. This project aims to explore and develop a system that can recognize and classify hand gestures using deep learning methods and evaluate the extent to which the combination of CNN with LSTM and GRU (Gated Recurrent Unit) model assists in addressing this problem better. Furthermore, the effects of data augmentation on the models were explored. The results of the evaluation metrics suggested that the combination of CNN, GRU, and LSTM teamed with data augmentation, outperformed other methods in terms of both lesser computational expenses, model loss behavior, and better performance accuracy for the chosen Hand Gesture Recognition Kaggle dataset.
 
